@@ -51,7 +51,7 @@ sudo apt install lua-filesystem-dev
 ### Basic Usage
 
 ```bash
-lua main.lua input_video.mp4 [output_video.mp4]
+lua video_to_ascii.lua input_video.mp4 [output_video.mp4]
 ```
 
 **Parameters:**
