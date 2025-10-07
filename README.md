@@ -306,11 +306,3 @@ ascii_video/
 ## License
 
 This project is open source and available for use and modification.
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome.
-
-## Acknowledgments
-
-Built with Lua, FFmpeg, and ImageMagick for efficient video-to-ASCII conversion.
